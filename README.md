@@ -1,9 +1,27 @@
-## Computer Science Student | May 2025 Graduate | Passionate About Technology and Problem-Solving
+# 👩‍💻 Welcome to My GitHub Profile!  
 
-I am a dedicated Computer Science student at Cal Poly Pomona, graduating in May 2025, with a passion for leveraging technology to solve complex problems. My coursework and projects have provided me with a strong foundation in programming languages like Python, Java, and C++, as well as experience in web development, data structures, and algorithms.
+🎓 **Computer Science Student**  
+**Cal Poly Pomona** | Graduating May 2025  
 
-My academic projects have allowed me to gain hands-on experience in software development, spanning game design, mobile application development, database management, and artificial intelligence. I have led teams to build interactive and scalable applications, integrating real-time communication, dynamic user interfaces, and optimized algorithms. Through these projects, I have honed my programming skills, strengthened my understanding of software architecture, and developed a collaborative approach to problem-solving.
+## 🚀 About Me  
+I'm passionate about leveraging technology to solve complex problems. My experience spans:  
+- **Programming:** Python, Java, C++  
+- **Web Development:** Frontend & Backend  
+- **Core Concepts:** Data Structures, Algorithms  
 
-As I approach graduation, I am actively seeking internships or entry-level opportunities for Summer 2025 to contribute to dynamic teams and grow as a professional. Let’s connect and explore how we can work together to achieve technological advancements!
+## 🛠️ Projects & Experience  
+💡 **Academic Projects**  
+- Built interactive games and scalable mobile applications  
+- Integrated real-time communication and dynamic UIs  
+- Developed optimized algorithms and database management systems  
 
+👩‍🏫 **Skills Gained**  
+- Hands-on software development  
+- Collaborative problem-solving  
+- Software architecture and design  
 
+## 🌟 Let's Connect!  
+I’m actively seeking **internships or entry-level opportunities** for **Summer 2025** to contribute to innovative teams and grow as a professional.  
+
+📫 **Reach Me Here:**  
+[LinkedIn](https://www.linkedin.com/in/jacob-e-thompson-z/) | [Email Me](mailto:jethpson@gmail.com)  
