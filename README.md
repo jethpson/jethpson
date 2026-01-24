@@ -10,7 +10,7 @@ I'm passionate about leveraging technology to solve complex problems. My experie
 - **Core Concepts:** Data Structures, Algorithms  
 
 ## 🌟 Let's Connect!  
-I’m actively seeking **internships or entry-level opportunities** for **Summer 2025** to contribute to innovative teams and grow as a professional.  
+I’m actively seeking **internships or entry-level opportunities** for 2026 to contribute to innovative teams and grow as a professional.  
 
 📫 **Reach Me Here:**  
 [LinkedIn](https://www.linkedin.com/in/jacob-e-thompson-z/) | [Email Me](mailto:jethpson@gmail.com)  
